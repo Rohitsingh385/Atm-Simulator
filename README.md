@@ -56,5 +56,18 @@ To deploy this project
 - Follow the on-screen instructions to complete the transaction.
 - Logout from the system when finished.
 
+## Screenshots
+- Screenshot 1
+![Screenshot1](https://user-images.githubusercontent.com/72379112/229284791-dc3c868d-be8c-499f-a04d-97bb3e02ef01.png)
 
+- Screenshot 2
 
+![Screenshot2](https://user-images.githubusercontent.com/72379112/229284847-25900ef8-0a69-47d5-92a5-3c16b0f10cf5.png)
+
+- Screenshot 3
+
+![Screenshot 3](https://user-images.githubusercontent.com/72379112/229284916-4d8e8d23-aa8f-4819-9bbc-52a57ffccf8a.png)
+
+- Screenshot 4
+
+![Screenshot 4](https://user-images.githubusercontent.com/72379112/229284944-5112f48a-7647-4f62-8eac-8020f8de3d3d.png)
